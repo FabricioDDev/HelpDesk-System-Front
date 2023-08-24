@@ -4,5 +4,5 @@
 - # Tecnologias y herramientas usadas
 - ## Diseño: Figma/Photoshop.
 - ## Lenguajes: HTML, CSS, JS.
-- ## Framework: ?.
+- ## Framework: React.
 - ## Librerias: Bootstrap.
